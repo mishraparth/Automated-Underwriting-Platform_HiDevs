@@ -1,0 +1,5 @@
+﻿- Any roof older than 20 years is considered high-risk and is an automatic rejection.
+- Visible foundation cracks, regardless of size, require a mandatory secondary inspection and flag the property for REVIEW.
+- Properties with knob-and-tube or aluminum wiring are ineligible for coverage and must be REJECTED.
+- Properties with updated PEX or Copper plumbing are considered low-risk in this category and are a positive factor.
+- Water damage indicated by active leaks or significant staining is grounds for rejection until repaired.
